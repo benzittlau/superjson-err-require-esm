@@ -1,0 +1,15 @@
+{
+  "name": "superjson-bug-repro",
+  "version": "1.0.0",
+  "description": "Repo for the purposes of attempting to reproduce a bug loading superjson",
+  "main": "index.ts",
+  "author": "Ben Zittlau <ben@zittlau.ca>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/node": "^20.9.4",
+    "superjson": "^2.2.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
